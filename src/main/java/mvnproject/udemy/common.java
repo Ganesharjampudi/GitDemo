@@ -23,4 +23,8 @@ public class common {
 		driver.findElement(By.partialLinkText(ele)).click();
 	}
 
+	public void test()
+	{
+		System.out.println("testing git functionality");
+	}
 }
